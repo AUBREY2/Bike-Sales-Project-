@@ -1,13 +1,13 @@
 # 🚴 Bike Sales Data Analysis Project (Excel Dashboard)
 
-## 📌 Project Overview
+## Project Overview
 This project analyzes bike sales data to uncover customer purchasing patterns, demographic trends, and revenue insights. The objective was to transform raw sales data into meaningful business insights using Microsoft Excel.
 
 The final output is an interactive dashboard that enables quick decision-making through visual analytics.
 
 ---
 
-## 🎯 Business Problem
+## Business Problem
 The company wanted to understand:
 
 - Which customer demographics purchase bikes the most
@@ -17,7 +17,7 @@ The company wanted to understand:
 
 ---
 
-## 🛠️ Tools & Technologies Used
+## Tools & Technologies Used
 - Microsoft Excel
 - Pivot Tables
 - Pivot Charts
@@ -27,7 +27,7 @@ The company wanted to understand:
 
 ---
 
-## 🔄 Data Preparation Process
+## Data Preparation Process
 The dataset was cleaned and prepared using the following steps:
 
 - Removed duplicates
@@ -38,7 +38,7 @@ The dataset was cleaned and prepared using the following steps:
 
 ---
 
-## 📊 Dashboard Features
+## Dashboard Features
 The interactive dashboard includes:
 
 - Sales breakdown by income level
@@ -51,7 +51,7 @@ The dashboard allows users to interact with the data and quickly identify trends
 
 ---
 
-## 📈 Key Insights
+## Key Insights
 Some important findings from the analysis:
 
 - Middle-aged customers showed the highest purchase rate
@@ -61,7 +61,7 @@ Some important findings from the analysis:
 
 ---
 
-## 💼 Skills Demonstrated
+## Skills Demonstrated
 This project demonstrates the following skills:
 
 - Data Cleaning and Preparation
@@ -73,7 +73,7 @@ This project demonstrates the following skills:
 
 ---
 
-## 🚀 Project Value
+## Project Value
 This project simulates a real-world business scenario where raw transactional data is transformed into actionable insights for management decision-making.
 
 It reflects foundational skills required in:
